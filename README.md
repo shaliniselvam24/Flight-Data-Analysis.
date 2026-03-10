@@ -1,2 +1,2 @@
 # Flight-Data-Analysis.
-Flight Data Analysis with Excel
+Excel Data Analysis project exploring airline flight prices based on airline, stops, duration, and departure time using pivot tables and visualizations.
